@@ -1,7 +1,5 @@
-// Parital imports
-@import 'partials/base/typography';
-@import 'partials/component/button';
-@import 'partials/component/form';
-@import 'partials/component/grid';
-@import 'partials/component/navigation';
-@import 'partials/utilities/variables';
+// Partial imports
+
+@import 'partials/utilities/index';
+@import 'partials/base/index';
+@import 'partials/component/index';
